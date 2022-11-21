@@ -1,0 +1,96 @@
+body {
+    background: white;
+  }
+  p {
+    color: black;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+    
+  }
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #EFE7BC;
+  }
+  .pop{
+    float: left;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px rgba(139, 135, 135, 0.72);
+    border: solid white;
+  }
+  .top{
+    padding: 150px;
+    padding-top: 50px;
+    background-color: #E7F2F8;
+    margin-top: 1px;
+  }
+  
+  h3{
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .more img{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px 2px #706f6f ;
+    transition: 0.5s;
+    
+    
+  }
+  .insta-btn {
+    display: flex;
+    margin-top: 250px;
+    margin-left: 700px;
+
+  }
+
+  .page{
+
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(12, 24, 157);
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: bold;
+  }
+  .cover img{
+    float: left;
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px 2px #706f6f ;
+    transition: 0.5s;
+    
+  }
+  .insta{
+    display: flex;
+    margin-top: 400px;
+    margin-left: 700px;
+  }
+  a:hover {
+    color:white;
+    background-color: rgb(35, 49, 194);
+  }
+  a:active {
+    color: yellow;
+  } 
+  img:hover{
+    transform: scale(1.1);
+  
+  }
+.imgfoot{
+  height: 50px;
+  width: 50px;
+}
+footer{
+  background-color: rgb(59, 59, 61);
+}
